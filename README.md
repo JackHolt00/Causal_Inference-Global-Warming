@@ -2,3 +2,5 @@
 An analysis of global temperatures using causal inference techniques to investigate if the Industrial Revolution led to an increase in temperature.
 The GlobalTemperatures dataset is from Kaggle and tracks average land temperatures from every year since 1750.
 For the purposes of this analysis, the end of the industrial revolution will be taken to be 1840, as this is generally held to be the end of the revolution period.
+
+The initial Exploratory Data Analysis was completed in Python, and the resulting data was then analysed in R to determine a causal relationship
